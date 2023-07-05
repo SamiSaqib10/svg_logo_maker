@@ -1,0 +1,26 @@
+{
+    "name": "svg_logo_maker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SamiSaqib10/svg_logo_maker"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/SamiSaqib10/svg_logo_maker/issues"
+    },
+    "homepage": "https://github.com/SamiSaqib10/svg_logo_maker#readme",
+    "devDependencies": {
+      "jest": "^29.5.0"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
